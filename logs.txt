@@ -1,0 +1,26 @@
+09/07/22
+------------------------------------
+serial port ready
+It will take 2 Minutes for system to Initialize
+Please wait!
+Initialization Success
+-------------------------------------------
+----------------------------------------
+Select Product
+2022-09-06 16:45:08
+Product Price: 1.0
+SUCCESS
+Failed and Voided
+session ended
+--------------------------------------------------------------------
+Select Product
+2022-09-06 16:47:02
+----------------------------------------
+Select Product
+2022-09-06 16:49:02
+----------------------------------------
+Select Product
+2022-09-06 16:51:02
+----------------------------------------
+Select Product
+2022-09-06 16:53:02
